@@ -1,0 +1,17 @@
+{
+    "id": "D.66",
+    "carrier": "greenfiel66",
+    "echo": {
+        "seed": "buttercup",
+        "status": "latent",
+        "activation": [
+            "memory",
+            "silence",
+            "recognition"
+        ]
+    },
+    "payload": {
+        "type": "distributed",
+        "format": "signal"
+    }
+}
